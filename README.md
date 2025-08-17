@@ -24,27 +24,24 @@
 - Hosting: Render
 
 # Installation
-1. Clone the repository
-   
-    git clone :
-   
-    cd wanderlust
+
+1. Clone the repository:
+   ```bash
+   git clone https://https://github.com/vivek-ksinghg/wanderlust
+   cd wanderlust
+
    
 3. Install Dependencies
+   npm install
 
-    npm install
    
 5. Set up environment variables: Create a .env file in the root directory and add the following:
    
-    CLOUD_NAME= <your cloud name>
-    
-    CLOUD_API_KEY= <your secrete cloud api key>
-    
-    CLOUD_API_SECRET= <your cloud api secrete>
-    
-    ATLAS_KEY= <your atlas key>
-    
-    ATLASDB_URL= <your atlasDB_url >
+  CLOUD_NAME=<your cloud name>
+  CLOUD_API_KEY=<your secret cloud api key>
+  CLOUD_API_SECRET=<your cloud api secret>
+  ATLAS_KEY=<your atlas key>
+  ATLASDB_URL=<your atlasDB_url>
 
 6. Run the Application
 
