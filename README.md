@@ -25,21 +25,32 @@
 
 # Installation
 1. Clone the repository
+   
     git clone :
+   
     cd wanderlust
-2. Install Dependencies
+   
+3. Install Dependencies
+
     npm install
-3. Set up environment variables: Create a .env file in the root directory and add the following:
+   
+5. Set up environment variables: Create a .env file in the root directory and add the following:
+   
     CLOUD_NAME=<your cloud name>
+    
     CLOUD_API_KEY=<your secrete cloud api key>
+    
     CLOUD_API_SECRET=<your cloud api secrete>
+    
     ATLAS_KEY=<your atlas key>
+    
     ATLASDB_URL=<your atlasDB_url >
 
-4. Run the Application
+6. Run the Application
+
     npm run start
 
-5. Open your web browser and visit: http://localhost:8080 to access the wanderlust application.
+7. Open your web browser and visit 👉 : http://localhost:8080 to access the wanderlust application.
 
 # Contributing
 
