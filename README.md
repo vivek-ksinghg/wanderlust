@@ -36,15 +36,15 @@
    
 5. Set up environment variables: Create a .env file in the root directory and add the following:
    
-    CLOUD_NAME=<your cloud name>
+    CLOUD_NAME= <your cloud name>
     
-    CLOUD_API_KEY=<your secrete cloud api key>
+    CLOUD_API_KEY= <your secrete cloud api key>
     
-    CLOUD_API_SECRET=<your cloud api secrete>
+    CLOUD_API_SECRET= <your cloud api secrete>
     
-    ATLAS_KEY=<your atlas key>
+    ATLAS_KEY= <your atlas key>
     
-    ATLASDB_URL=<your atlasDB_url >
+    ATLASDB_URL= <your atlasDB_url >
 
 6. Run the Application
 
