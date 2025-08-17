@@ -31,12 +31,12 @@
    cd wanderlust
 
    
-3. Install Dependencies
-4.  ```bash
-   npm install
-
-   
-5. Set up environment variables: Create a .env file in the root directory and add the following:
+2. Install Dependencies
+   ```bash
+    npm install
+ 
+      
+3. Set up environment variables: Create a .env file in the root directory and add the following:
     ```bash
   CLOUD_NAME=<your cloud name>
   CLOUD_API_KEY=<your secret cloud api key>
@@ -44,11 +44,11 @@
   ATLAS_KEY=<your atlas key>
   ATLASDB_URL=<your atlasDB_url>
 
-6. Run the Application
+4. Run the Application
      ```bash
     npm run start
 
-7. Open your web browser and visit 👉 : http://localhost:8080 to access the wanderlust application.
+5. Open your web browser and visit 👉 : http://localhost:8080 to access the wanderlust application.
 
 # Contributing
 
