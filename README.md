@@ -34,10 +34,9 @@
 2. Install Dependencies
    ```bash
     npm install
- 
       
 3. Set up environment variables: Create a .env file in the root directory and add the following:
-    ```bash
+ ```bash
   CLOUD_NAME=<your cloud name>
   CLOUD_API_KEY=<your secret cloud api key>
   CLOUD_API_SECRET=<your cloud api secret>
@@ -49,6 +48,7 @@
     npm run start
 
 5. Open your web browser and visit 👉 : http://localhost:8080 to access the wanderlust application.
+
 
 # Contributing
 
